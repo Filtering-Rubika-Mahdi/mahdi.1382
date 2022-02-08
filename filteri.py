@@ -2,13 +2,6 @@
 #filtering
 print("")
 print("")
-print(" ")
-print("""
-#          #    "    m    m
- mmmmm   mmm   # mm    mmm#  mmm    ##  ##
- # # #  "   #  #"  #  #" "#    #    # ## #
- # # #  m"""#  #   #  #   #    #    # "" #
- # # #  "mm"#  #   #  "#m##  mm#mm  #    #. """)
 print (" ")
 print("Load . . .")                 
 import os
@@ -85,7 +78,7 @@ m""    "    ""#      m                                       #        "
  #   m   mmm
  # m"   "   #
  #"#    m"""#
- #  "m  "mm"#
+ #  "m  "mm"#  """)
 
                   god filteri
                     CODE FILTERI RUBIKA
@@ -97,7 +90,7 @@ m""    "    ""#      m                                       #        "
 ◇♡♤■●¤¤¤▪︎》《♡♡♤□●●|○●
 °•```《°《°¡°¡°¡°¡•《•《•《`♤♤`¡`
 ¿◇¡●《《○♡○♡○♡♡●《●♤●
-         ,,,,****×,,×*×)×**÷■■""")
+         ,,,,****×,,×*×)×**÷■■     """)
 
 for d in d:
         sys.stdout.write(d)
