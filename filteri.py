@@ -302,17 +302,3 @@ time.sleep(1)
 print ("""ostorh filteri""")
 print("")
 print (Fore.WHITE + "")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
