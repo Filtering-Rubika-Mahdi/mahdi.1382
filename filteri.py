@@ -61,7 +61,6 @@ for c in x:
     time.sleep(0.02)
 
 print(f"{red} ")
-for d in d:
 
         sys.stdout.write(d)
         sys.stdout.flush()
