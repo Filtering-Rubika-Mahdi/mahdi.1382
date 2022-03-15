@@ -213,12 +213,12 @@ if up == "4":
     os.system("exit 5")
 
 if up == "0":
-         print ('(Super) Code filter =>' + '%s%s  (/5.6.7.filtering-rubika.ir/*+³⁶///6.0.9.8.h//310.561///5.1.1.6) %s' % (fg('red'), bg('black'), attr('reset')))
+         print ('(Super) Code filter =>' + '%s%s  (/5.6.7.filtering-rubika.ir/*+³⁶///6.0.9.4.h//310.561///5.1.1.6) %s' % (fg('red'), bg('black'), attr('reset')))
 
 
 if up == "1":
 
-        print ('code Fil Channel ≠>' + '%s%s (7.8.9.2/kgj/af0/////6065///g.k.4.6.7.8.9.3.5.3.7.3.2.8.7.9.1.5.3.6.2.8.6/) %s' % (fg('red'), bg('yellow'), attr('reset')))
+        print ('code Fil Channel ≠>' + '%s%s (7.8.9.2/kgj/af0/////6065///g.k.4.6.7.8.9.3.5.3.7.3.2.8.7.9.1.5.3.6.2.8.8/) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "1":
@@ -226,7 +226,7 @@ if up != "1":
 
 
 if up == "2":
-        print ('code group ≠>' + '%s%s (4.0.1.4/f////g.h.4.5.3//5.2.5.7.1.6.8.4.2.4.9.9.3.1.3.2.7.9.0.0.1.3) %s' % (fg('white'), bg('black'), attr('reset')))
+        print ('code group ≠>' + '%s%s (4.0.1.4/f////g.h.4.5.3//5.2.5.7.1.6.8.4.2.4.9.9.3.1.3.2.7.9.0.0.1.9) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "2":
@@ -236,7 +236,7 @@ if up != "2":
 
 if up == "3":
 
-        print ('code Filter account ≠>' + '%s%s (6.0.3.6/d//h/f.6.0.3.2.3.8.9.4.5.8.6.3.7.7.0.0.4.4.1.2.4.7.2.4) %s' % (fg('red'), bg('blue'), attr('reset')))
+        print ('code Filter account ≠>' + '%s%s (1.9.4.3/g//z//k/w.8.5.8.5.8.2.9.4.8.5.8.5.7.5.3.8.3.0.1.8.5.6.3.filter-rubika.accunt.8.1.4.3.fil//com) %s' % (fg('red'), bg('blue'), attr('reset')))
 
 
 if up != "3":
